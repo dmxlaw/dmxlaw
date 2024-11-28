@@ -3,6 +3,8 @@ I am a fullstack software engineer who is a lifelong learner.
 - ⌨️I currently work fullstack with Elixir, NodeJS, Deno, and ReactJS.⌨️
 - 🍳I have something in the works, so lets see how this goes!🍳
 
+I am also on [LinkedIn](https://www.linkedin.com/in/daniellawmingxian/)!
+
 <!--
 **dmxlaw/dmxlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
