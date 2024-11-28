@@ -1,7 +1,7 @@
-## Daniel here! Welcome to my Github page :)
+## 👋 Daniel here! Welcome to my Github page 🧑‍💻
 I am a fullstack software engineer who is a lifelong learner.
-- I currently work fullstack with Elixir, NodeJS, Deno, and ReactJS.
-- I have something in the works, so lets see how this goes!
+- ⌨️I currently work fullstack with Elixir, NodeJS, Deno, and ReactJS.⌨️
+- 🍳I have something in the works, so lets see how this goes!🍳
 
 <!--
 **dmxlaw/dmxlaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
