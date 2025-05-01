@@ -1,6 +1,7 @@
 ## 👋 Daniel here! Welcome to my Github page 🧑‍💻
 I am a fullstack software engineer who is a lifelong learner.
-- ⌨️I currently work fullstack with Elixir, NodeJS, Deno, and ReactJS.⌨️
+- ⌨️I currently work fullstack with Python, grpc, protobuf and ReactJS.⌨️
+- 🕑I also worked fullstack with Elixir, NodeJS, Deno, and ReactJS.🕑
 
 I am also on [LinkedIn](https://www.linkedin.com/in/daniellawmingxian/)!
 
